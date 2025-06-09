@@ -12,39 +12,38 @@ export const metadata = {
   title: "Adi Dharma | Portofolio",
 
   description:
-    "My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
+    "Hi, I’m Adi Dharma a passionate and adaptable Junior Full-Stack Developer with strong skills in Laravel, PHP, MySQL, JavaScript, and modern web tools.",
 
-  author: "Alvalen Shafelbilyunazra",
-  siteUrl: "https://www.alvalens.my.id",
-  applicationName: "Alvalens",
+  author: "Adi Dharma",
+  siteUrl: "",
+  applicationName: "AdiDharma",
 
   keywords: [
-    "alvalens",
-    "alvalen",
-    "alvalen shafel",
-    "shafel",
-    "alvalen shafelbilyunazra",
-    "alvalen shafel bilyunazra",
-    "bloodfallen",
-    "alvalen porto",
-    "alvalen um",
+    "Adi Dharma",
+    "Full-Stack Developer",
+    "Laravel",
+    "PHP",
+    "MySQL",
+    "Adi",
+    "Dharma",
+    "adi",
   ],
 
   openGraph: {
     type: "website",
-    url: "https://www.alvalens.my.id",
-    title: "Alvalens | Portofolio",
-    site_name: "Alvalens | Portofolio",
-    description: "My name is Alvalens, This is my portofolio website.",
+    url: "",
+    title: "Adi Dharma | Portofolio",
+    site_name: "Adi Dharma | Portofolio",
+    description: "My name is Adi Dharma, This is my portofolio website.",
     width: 1200,
     height: 630,
     images: [
       {
         url: "/og-image-rev.png",
-        alt: "Alvalens Portofolio",
+        alt: "Adi Dharma Portofolio",
       },
     ],
-    site_name: "Alvalens | Portofolio",
+    site_name: "Adi Dharma | Portofolio",
   },
 };
 
