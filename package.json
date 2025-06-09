@@ -1,12 +1,11 @@
 {
-  "name": "alvalen-portfolio-website",
+  "name": "AdiDharma-portfolio-website",
   "author": {
-    "name": "Alvalen Shafelbilyunazra",
-    "email": "alvalen.shafel04@gmail.com",
-    "url": "https://alvalens.my.id"
+    "name": "Adi Dharma",
+    "email": "adidarmap@gmail.com"
   },
   "license": "GPL-3.0",
-  "copyright": "Copyright (C) 2025 Alvalen Shafelbilyunazra",
+  "copyright": "Copyright (C) 2025 Adi Dharma",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -28,7 +27,9 @@
     "eslint": "9.22.0",
     "eslint-config-next": "15.2.3",
     "framer-motion": "^12.5.0",
-    "next": "15.2.3",
+    "fullpage.js": "^4.0.36",
+    "gsap": "^3.13.0",
+    "next": "^15.2.3",
     "nprogress": "^0.2.0",
     "postcss": "^8.5.3",
     "prop-types": "^15.8.1",
