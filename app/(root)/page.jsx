@@ -87,12 +87,12 @@ const MyPage = () => (
               type: "spring",
             }}
           >
-            Hi, I’m Adi Dharma a passionate and adaptable Junior Full-Stack
+            Hi, I&apos;m Adi Dharma a passionate and adaptable Junior Full-Stack
             Developer with strong skills in Laravel, PHP, MySQL, JavaScript, and
             modern web tools. With a solid foundation in both frontend and
             backend development, I focus on building responsive, secure, and
-            efficient web applications. I'm eager to grow within a collaborative
-            team and contribute to impactful, real-world projects.
+            efficient web applications. I&apos;m eager to grow within a
+            collaborative team and contribute to impactful, real-world projects.
           </motion.p>
           <motion.div
             className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
@@ -267,7 +267,7 @@ const MyPage = () => (
               type: "spring",
             }}
           >
-            Here are a few projects I've completed and some that I'm
+            Here are a few projects I&apos;ve completed and some that I&apos;m
             <br /> currently working on.
           </motion.p>
           <motion.div
@@ -341,7 +341,8 @@ const MyPage = () => (
               type: "spring",
             }}
           >
-            Let’s connect! I’m open to new ideas, challenges, and <br />
+            Let&apos;s connect! I&apos;m open to new ideas, challenges, and{" "}
+            <br />
             meaningful conversations.
           </motion.p>
           <motion.p

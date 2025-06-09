@@ -100,7 +100,7 @@ export default function About() {
               Laravel Development.{" "}
             </span>
             Hailing from Sidoarjo, East Java, Indonesia, I graduated with a
-            bachelor’s degree in
+            bachelor&apos;s degree in
             <span className="text-black font-medium">
               {" "}
               Sistem Informasi{" "}
@@ -113,17 +113,17 @@ export default function About() {
               PHP and Laravel, and I continue to develop my skills in Full Stack
               development.{" "}
             </span>{" "}
-            Although I’m still at the beginning of my journey, I’m highly
-            motivated to grow in the Laravel ecosystem—learning about RESTful
-            APIs, MVC architecture, and best practices for scalable web
-            solutions. I’m also always curious about modern design trends and
-            tools that support better user experiences. In today’s fast-paced
-            tech world, I believe in the power of{" "}
+            Although I&apos;m still at the beginning of my journey, I&apos;m
+            highly motivated to grow in the Laravel ecosystem—learning about
+            RESTful APIs, MVC architecture, and best practices for scalable web
+            solutions. I&apos;m also always curious about modern design trends
+            and tools that support better user experiences. In today&apos;s
+            fast-paced tech world, I believe in the power of{" "}
             <span className="text-black font-medium">
               {" "}
               continuous learning and collaboration.{" "}
             </span>{" "}
-            Let’s connect and build something impactful together!
+            Let&apos;s connect and build something impactful together!
           </motion.p>
           {/* <Card /> */}
         </motion.div>

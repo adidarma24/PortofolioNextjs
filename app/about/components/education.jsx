@@ -189,7 +189,7 @@ export default function Education() {
                   </span>{" "}
                   I hold a{" "}
                   <span className="text-black font-medium">
-                    Bachelor’s degree in Information Systems (S.Kom)
+                    Bachelor&apos;s degree in Information Systems (S.Kom)
                   </span>{" "}
                   from STIKI Malang, which has now merged with{" "}
                   <span className="text-black font-medium">

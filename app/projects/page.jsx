@@ -60,8 +60,8 @@ export default function Page() {
             </h1>
             <Hr />
             <p className="title  text-xl mt-4 tracking-wider text-gray-900 leading-[1.7rem] mb-5">
-              Here are a few projects I've completed and some <br /> that I'm
-              currently working on.
+              Here are a few projects I&apos;ve completed and some <br /> that
+              I&apos;m currently working on.
             </p>
             <motion.div
               initial={{ opacity: 0, y: 100 }}
