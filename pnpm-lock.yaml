@@ -41,8 +41,14 @@ importers:
       framer-motion:
         specifier: ^12.5.0
         version: 12.5.0(@emotion/is-prop-valid@0.8.8)(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
+      fullpage.js:
+        specifier: ^4.0.36
+        version: 4.0.36
+      gsap:
+        specifier: ^3.13.0
+        version: 3.13.0
       next:
-        specifier: 15.2.3
+        specifier: ^15.2.3
         version: 15.2.3(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       nprogress:
         specifier: ^0.2.0
@@ -1070,8 +1076,8 @@ packages:
       react-dom:
         optional: true
 
-  fullpage.js@4.0.34:
-    resolution: {integrity: sha512-jLZrqhK9PDRdpN82UwbNLYaINjZTGbBahV6FASP4b1yXaS8U3G+ty2nZ+XIIfjN08Ej0UgvSfPnmWDR7CWxwNw==}
+  fullpage.js@4.0.36:
+    resolution: {integrity: sha512-d6h296T5BLkYJgOnJ36p+FKJUxMOkUsVTftk0pSNUNNfpdLHWqPG+Occ99360Jm8Mq/N9Rr/ioKzv6IKA6cezg==}
 
   function-bind@1.1.2:
     resolution: {integrity: sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==}
@@ -1123,6 +1129,9 @@ packages:
 
   graphemer@1.4.0:
     resolution: {integrity: sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==}
+
+  gsap@3.13.0:
+    resolution: {integrity: sha512-QL7MJ2WMjm1PHWsoFrAQH/J8wUeqZvMtHO58qdekHpCfhvhSL4gSiz6vJf5EeMP0LOn3ZCprL2ki/gjED8ghVw==}
 
   gzip-size@6.0.0:
     resolution: {integrity: sha512-ax7ZYomf6jqPTQ4+XCpUGyXKHk5WweS+e05MBO4/y3WJ5RkmPXNKvX+bx1behVILVwr6JSQvZAku021CHPXG3Q==}
@@ -1994,7 +2003,7 @@ snapshots:
   '@fullpage/react-fullpage@0.1.48':
     dependencies:
       '@babel/polyfill': 7.12.1
-      fullpage.js: 4.0.34
+      fullpage.js: 4.0.36
 
   '@humanfs/core@0.19.1': {}
 
@@ -2967,7 +2976,7 @@ snapshots:
       react: 19.0.0
       react-dom: 19.0.0(react@19.0.0)
 
-  fullpage.js@4.0.34: {}
+  fullpage.js@4.0.36: {}
 
   function-bind@1.1.2: {}
 
@@ -3030,6 +3039,8 @@ snapshots:
   graceful-fs@4.2.11: {}
 
   graphemer@1.4.0: {}
+
+  gsap@3.13.0: {}
 
   gzip-size@6.0.0:
     dependencies:
