@@ -12,7 +12,7 @@ export const metadata = {
   title: "Adi Dharma | Portofolio",
 
   description:
-    "Hi, I’m Adi Dharma a passionate and adaptable Junior Full-Stack Developer with strong skills in Laravel, PHP, MySQL, JavaScript, and modern web tools.",
+    "Hi, I&apos;m Adi Dharma a passionate and adaptable Junior Full-Stack Developer with strong skills in Laravel, PHP, MySQL, JavaScript, and modern web tools.",
 
   author: "Adi Dharma",
   siteUrl: "",

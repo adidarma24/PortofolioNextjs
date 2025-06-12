@@ -27,7 +27,6 @@ const skillCategories = {
       "Git",
       "Github",
       "Figma",
-      "Vite",
       "Google Cloud",
       "WrodPress",
     ],
@@ -44,7 +43,7 @@ const skillCategories = {
     icon: ActivityIcon,
     description: "Developing intelligent solutions with ML/AI",
     languages: ["OpenAI API", "Gemini API"],
-    tools: ["Google Colab", "Google Cloud AI"],
+    tools: ["Google Colab", "Google Cloud AI", "Firebase"],
   },
   mobile: {
     title: "Mobile Development",
@@ -191,8 +190,11 @@ export default function Skills() {
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg leading-relaxed">
             Explore my comprehensive technical capabilities across diverse
-            domains. Select a category to reveal the cutting-edge tools and
-            technologies I specialize in.
+            domains.{" "}
+            <span className="text-black font-medium">
+              Select a category to reveal the cutting-edge tools and
+              technologies I specialize in below.
+            </span>
           </p>
         </motion.div>
 

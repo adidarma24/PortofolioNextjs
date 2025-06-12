@@ -65,7 +65,7 @@ export default function Page() {
               transition={{ duration: 0.5, ease: "circOut" }}
               onClick={() => {
                 window.scrollTo({
-                  top: 1000,
+                  top: 600,
                   behavior: "smooth",
                 });
               }}

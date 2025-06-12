@@ -115,10 +115,14 @@ export default function About() {
             </span>{" "}
             Although I&apos;m still at the beginning of my journey, I&apos;m
             highly motivated to grow in the Laravel ecosystem—learning about
-            RESTful APIs, MVC architecture, and best practices for scalable web
-            solutions. I&apos;m also always curious about modern design trends
-            and tools that support better user experiences. In today&apos;s
-            fast-paced tech world, I believe in the power of{" "}
+            <span className="text-black font-medium">
+              {" "}
+              RESTful APIs, MVC architecture, and best practices for scalable
+              web solutions.{" "}
+            </span>{" "}
+            I&apos;m also always curious about modern design trends and tools
+            that support better user experiences. In today&apos;s fast-paced
+            tech world, I believe in the power of{" "}
             <span className="text-black font-medium">
               {" "}
               continuous learning and collaboration.{" "}

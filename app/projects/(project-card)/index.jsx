@@ -3,6 +3,17 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import PropTypes from "prop-types";
 
+/**
+ * Komponen ProjectCard
+ * Menampilkan kartu project dengan animasi, gambar, tahun, judul, deskripsi singkat, dan teknologi yang digunakan.
+ * Kartu hanya tampil jika kategori project sesuai dengan activeCategory.
+ * Saat diklik, akan menuju halaman detail project.
+ *
+ * Props:
+ * - project: Object data project (berisi slug, thumbnail, year, title, desc, tech, category)
+ * - index: Index project (untuk key)
+ * - activeCategory: Kategori yang sedang aktif/filter
+ */
 export default function ProjectCard({ project, index, activeCategory }) {
   return (
     <>

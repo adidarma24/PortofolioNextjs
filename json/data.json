@@ -23,6 +23,29 @@
       "tech": ["Laravel", "Livewire", "Tailwind CSS", "Filament", "MySQL"],
       "slug": "E-Cammerce",
       "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Management Perpustakaan",
+      "desc": [
+        "Sistem manajemen perpustakaan berbasis web yang dibangun menggunakan Laravel, MySQL, Filament, dan Tailwind CSS. Sistem ini memungkinkan pengelolaan data buku, anggota, peminjaman, dan pengembalian secara efisien. Antarmuka yang responsif dan modern memudahkan admin dalam mengatur aktivitas perpustakaan dengan cepat dan terstruktur."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "https://github.com/adidarma24/ManagementPerpustakaan",
+      "thumbnail": "/image/projects/web/ManagementPerpustakaan/mp7.png",
+      "images": [
+        "/image/projects/web/ManagementPerpustakaan/mp1.png",
+        "/image/projects/web/ManagementPerpustakaan/mp2.png",
+        "/image/projects/web/ManagementPerpustakaan/mp3.png",
+        "/image/projects/web/ManagementPerpustakaan/mp4.png",
+        "/image/projects/web/ManagementPerpustakaan/mp5.png",
+        "/image/projects/web/ManagementPerpustakaan/mp6.png",
+        "/image/projects/web/ManagementPerpustakaan/mp7.png"
+      ],
+      "tech": ["Laravel", "Tailwind CSS", "Filament", "MySQL", "NPM"],
+      "slug": "Management-Perpustakaan",
+      "category": [1]
     }
   ]
 }

@@ -14,6 +14,7 @@ import {
   faInstagram,
   faLinkedin,
   faDiscord,
+  faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
@@ -114,7 +115,7 @@ const MyPage = () => (
               </Link>
             </Button>
             <Button variation="secondary">
-              <a href="#contact">Contact Me</a>
+              <a href="#about">Scroll Down 👇</a>
             </Button>
           </motion.div>
         </motion.div>
@@ -205,7 +206,10 @@ const MyPage = () => (
             }}
           >
             <Button variation="primary">
-              <Link href="/about">Learn More</Link>
+              <Link href="/about">Click Me</Link>
+            </Button>
+            <Button variation="secondary">
+              <a href="#projects">Scoll Down 👇</a>
             </Button>
           </motion.div>
         </div>
@@ -279,7 +283,10 @@ const MyPage = () => (
             }}
           >
             <Button variation="primary">
-              <Link href="/projects">Learn More</Link>
+              <Link href="/projects">Click Me</Link>
+            </Button>
+            <Button variation="secondary">
+              <a href="#contact">Scoll Down 👇</a>
             </Button>
           </motion.div>
         </div>
@@ -354,14 +361,12 @@ const MyPage = () => (
               type: "spring",
             }}
           >
-            <a href="mailto:adidarmap@gmail.com?subject=Hello&body=Hello AdiDharma,">
-              adidarmap@gmail.com
-            </a>
+            {/* <a href="">adidarmap@gmail.com</a> */}
           </motion.p>
           {/* icons */}
           <div className="flex justify-center items-center space-x-4">
             <motion.a
-              href="mailto:adidarmap@gmail.com?subject=Hello&body=Hello AdiDharma,"
+              href="https://api.whatsapp.com/send/?phone=%2B6281355643587&text&type=phone_number&app_absent=0"
               className="flex justify-center items-center bg-gray-700 w-14 h-14 rounded-full text-gray-100 hover:bg-gray-400 transition-all ease-in-out duration-300"
               initial={{ y: 40, opacity: 0 }}
               whileInView={{ y: 0, opacity: 1 }}
@@ -370,7 +375,7 @@ const MyPage = () => (
                 opacity: { delay: 0.2 },
               }}
             >
-              <FontAwesomeIcon icon={faEnvelope} className="text-3xl" />
+              <FontAwesomeIcon icon={faWhatsapp} className="text-3xl" />
             </motion.a>
 
             <motion.a
