@@ -46,6 +46,21 @@
       "tech": ["Laravel", "Tailwind CSS", "Filament", "MySQL", "NPM"],
       "slug": "Management-Perpustakaan",
       "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Chatbot AI + Deepseek",
+      "desc": [
+        "Aplikasi Chatbot AI yang mengintegrasikan Deepseek untuk memberikan pengalaman interaktif dan responsif. Dengan menggunakan teknologi AI terbaru, aplikasi ini mampu memahami dan merespons pertanyaan pengguna dengan akurasi tinggi, menjadikannya alat yang efektif untuk berbagai kebutuhan komunikasi."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "https://github.com/adidarma24/Offline-AI-Chat",
+      "thumbnail": "/image/projects/ai/ai-chatbot/ai1.png",
+      "images": ["/image/projects/ai/ai-chatbot/ai1.png"],
+      "tech": ["React", "Tailwind CSS", "TypeScript", "Vite", "Ollama"],
+      "slug": "Chatbot-AI",
+      "category": [2]
     }
   ]
 }
