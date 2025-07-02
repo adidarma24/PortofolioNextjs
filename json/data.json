@@ -22,7 +22,7 @@
         "/image/projects/web/E-Commerce/ec8.png"
       ],
       "tech": ["Laravel", "Livewire", "Tailwind CSS", "Filament", "MySQL"],
-      "slug": "E-Cammerce",
+      "slug": "adishop-e-commerce-website",
       "category": [1]
     },
     {
@@ -45,7 +45,7 @@
         "/image/projects/web/ManagementPerpustakaan/mp7.png"
       ],
       "tech": ["Laravel", "Tailwind CSS", "Filament", "MySQL", "NPM"],
-      "slug": "Management-Perpustakaan",
+      "slug": "management-perpustakaan",
       "category": [1]
     },
     {
@@ -60,7 +60,7 @@
       "thumbnail": "/image/projects/ai/ai-chatbot/ai1.png",
       "images": ["/image/projects/ai/ai-chatbot/ai1.png"],
       "tech": ["React", "Tailwind CSS", "TypeScript", "Vite", "Ollama"],
-      "slug": "Chatbot-AI",
+      "slug": "chatbot-ai-deepseek",
       "category": [2]
     },
     {
@@ -97,8 +97,26 @@
         "/image/projects/web/ai-gemini/aigemini2.png"
       ],
       "tech": ["Vue 3 ", "Vite", "Tailwind CSS", "Google Generative AI SDK"],
-      "slug": "AI-Web-Gemini",
+      "slug": "ai-web-gemini",
       "category": [2]
+    },
+    {
+      "show": true,
+      "title": "AdobtMe",
+      "desc": [
+        "AdobtMe adalah aplikasi antarmuka web yang dibuat untuk memudahkan pengguna dalam mencari dan mengadopsi hewan peliharaan. Dibangun menggunakan Vue.js dan Tailwind CSS, aplikasi ini menampilkan tampilan modern, responsif, dan mudah digunakan."
+      ],
+      "year": "2025",
+      "preview": "adobt-me-rouge.vercel.app",
+      "code": "https://github.com/adidarma24/AdobtMe",
+      "thumbnail": "/image/projects/web/AdobtMe/am1.png",
+      "images": [
+        "/image/projects/web/AdobtMe/am1.png",
+        "/image/projects/web/AdobtMe/am2.png"
+      ],
+      "tech": ["Vue.js 3 ", "Vite", "Tailwind CSS", "Heroicons"],
+      "slug": "adobt-me",
+      "category": [1]
     }
   ]
 }
