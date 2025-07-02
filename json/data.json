@@ -19,6 +19,7 @@
         "/image/projects/web/E-Commerce/ec5.png",
         "/image/projects/web/E-Commerce/ec6.png",
         "/image/projects/web/E-Commerce/ec7.png"
+        "/image/projects/web/E-Commerce/ec8.png"
       ],
       "tech": ["Laravel", "Livewire", "Tailwind CSS", "Filament", "MySQL"],
       "slug": "E-Cammerce",
