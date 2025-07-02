@@ -62,6 +62,25 @@
       "tech": ["React", "Tailwind CSS", "TypeScript", "Vite", "Ollama"],
       "slug": "Chatbot-AI",
       "category": [2]
+    },
+    {
+      "show": true,
+      "title": "E-Commerce-Next-js",
+      "desc": [
+        "E-Commerce-Next-js adalah aplikasi e-commerce modern yang dibangun menggunakan Next.js, Tailwind CSS, dan TypeScript, yang dirancang untuk memberikan pengalaman belanja yang cepat, responsif, dan dinamis. Aplikasi ini mendukung fitur belanja online seperti katalog produk, keranjang belanja, dan checkout."
+      ],
+      "year": "2025",
+      "preview": "",
+      "code": "https://github.com/adidarma24/E-Commerce-Next-js",
+      "thumbnail": "/image/projects/web/E-Commerce-Next-js/ec1.png",
+      "images": [
+        "/image/projects/web/E-Commerce-Next-js/ec1.png",
+        "/image/projects/web/E-Commerce-Next-js/ec2.png",
+        "/image/projects/web/E-Commerce-Next-js/ec3.png"
+      ],
+      "tech": ["Next.js ", "Tailwind CSS", "TypeScript", "React Icons"],
+      "slug": "E-Commerce-Next-js",
+      "category": [1]
     }
   ]
 }
