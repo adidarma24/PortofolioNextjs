@@ -81,6 +81,24 @@
       "tech": ["Next.js ", "Tailwind CSS", "TypeScript", "React Icons"],
       "slug": "E-Commerce-Next-js",
       "category": [1]
+    },
+    {
+      "show": true,
+      "title": "AI Web Gemini",
+      "desc": [
+        "AI Web Gemini adalah aplikasi web sederhana yang mengintegrasikan antarmuka pengguna dengan Google Gemini API untuk memberikan pengalaman interaktif berbasis kecerdasan buatan. Dibangun menggunakan Vite + Vue 3 + Tailwind CSS, aplikasi ini memungkinkan pengguna untuk mengirim prompt dan mendapatkan respons cerdas secara real-time."
+      ],
+      "year": "2025",
+      "preview": "https://web-ai-ten-sigma.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/ai-gemini/aigemini1.png",
+      "images": [
+        "/image/projects/web/ai-gemini/aigemini1.png",
+        "/image/projects/web/ai-gemini/aigemini2.png"
+      ],
+      "tech": ["Vue 3 ", "Vite", "Tailwind CSS", "Google Generative AI SDK"],
+      "slug": "AI-Web-Gemini",
+      "category": [2]
     }
   ]
 }
