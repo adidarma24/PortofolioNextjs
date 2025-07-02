@@ -1,61 +1,68 @@
-Tentu, ini draf README.md yang bisa Anda gunakan untuk proyek Anda:
+# 🚀 PortofolioNextjs
 
-# Portofolio Pribadi dengan Next.js
+Portfolio pribadi interaktif yang dibangun dengan **Next.js**, **Tailwind CSS**, dan teknologi web modern lainnya. Menampilkan proyek-proyek unggulan, pengalaman kerja, dan kemampuan teknis dalam antarmuka yang clean dan profesional.
 
-Ini adalah proyek portofolio pribadi yang dibangun menggunakan [Next.js](https://nextjs.org/), sebuah framework React yang populer untuk membangun aplikasi web modern. Portofolio ini menampilkan informasi tentang diri saya, proyek-proyek yang pernah saya kerjakan, serta keahlian dan pengalaman yang saya miliki.
+## 🔍 Fitur Utama
 
-## Fitur Utama
+- ⚡ Performa tinggi dengan Next.js
+- 🎨 Desain responsif menggunakan Tailwind CSS
+- 🌙 Mode Gelap (Dark Mode)
+- 📂 Komponen modular dan mudah dikustomisasi
+- 🧠 SEO friendly
+- 🧩 Routing dinamis untuk halaman-halaman proyek
 
-  * **Desain Responsif**: Dibuat dengan Tailwind CSS untuk memastikan tampilan yang optimal di berbagai perangkat, mulai dari desktop hingga mobile.
-  * **Animasi Halus**: Menggunakan [Framer Motion](https://www.framer.com/motion/) untuk memberikan efek animasi yang elegan dan interaktif, meningkatkan pengalaman pengguna.
-  * **Navigasi Intuitif**: Dilengkapi dengan beberapa mode navigasi, termasuk menu utama, sidebar, dan tombol navigasi di setiap halaman untuk memudahkan penjelajahan.
-  * **Struktur Proyek Modern**: Mengikuti struktur direktori `app` dari Next.js untuk pengelolaan komponen dan halaman yang lebih terorganisir.
-  * **Halaman Dinamis**: Detail proyek dibuat secara dinamis berdasarkan data dari file JSON, memungkinkan pembaruan konten dengan mudah.
+## 📁 Struktur Folder
 
-## Halaman
+```
+PortofolioNextjs/
+├── components/       # Komponen UI modular
+├── pages/            # Routing halaman
+├── public/           # Aset publik (gambar, favicon, dsb)
+├── styles/           # Style global Tailwind
+├── utils/            # Fungsi bantu (jika ada)
+├── tailwind.config.js
+├── next.config.js
+└── README.md
+```
 
-  * **Beranda**: Tampilan utama yang memperkenalkan diri saya secara singkat.
-  * **Tentang Saya**: Informasi lebih mendalam mengenai latar belakang, pendidikan, pengalaman, dan keahlian saya.
-  * **Proyek**: Galeri proyek-proyek yang pernah saya kerjakan, lengkap dengan deskripsi, teknologi yang digunakan, dan tautan ke kode sumber atau demo.
-  * **Arsip Proyek**: Halaman tambahan yang menampilkan semua proyek dalam format tabel untuk kemudahan referensi.
-  * **Kontak**: Informasi kontak dan tautan ke media sosial saya.
+## 📦 Teknologi yang Digunakan
 
-## Teknologi yang Digunakan
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [Framer Motion](https://www.framer.com/motion/) – animasi UI
+- [TypeScript] (opsional, jika digunakan)
 
-  * **Framework**: [Next.js](https://nextjs.org/) 15
-  * **Styling**: [Tailwind CSS](https://tailwindcss.com/) 4
-  * **Animasi**: [Framer Motion](https://www.framer.com/motion/)
-  * **Ikon**: [Font Awesome](https://fontawesome.com/)
-  * **Linting**: [ESLint](https://eslint.org/) dengan konfigurasi Next.js
+## 🚀 Cara Menjalankan Project
 
-## Cara Menjalankan Proyek
+```bash
+# 1. Clone repositori
+git clone https://github.com/adidarma24/PortofolioNextjs.git
 
-1.  **Clone repositori ini:**
+# 2. Masuk ke folder proyek
+cd PortofolioNextjs
 
-    ```bash
-    git clone https://github.com/adidarma24/portofolionextjs.git
-    ```
+# 3. Install dependensi
+npm install
 
-2.  **Masuk ke direktori proyek:**
+# 4. Jalankan project
+npm run dev
+```
 
-    ```bash
-    cd portofolionextjs
-    ```
+Buka `http://localhost:3000` untuk melihatnya di browser.
 
-3.  **Install dependensi:**
+## 🖼️ Preview
 
-    ```bash
-    npm install
-    ```
+![Preview Portofolio](public/preview.png)
 
-4.  **Jalankan server pengembangan:**
+> 💡 Pastikan file `preview.png` ada di folder `/public` agar muncul dengan benar di GitHub.
 
-    ```bash
-    npm run dev
-    ```
+## 🙋‍♂️ Tentang Saya
 
-    Buka [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) di browser Anda untuk melihat hasilnya.
+**Adi Dharma Putra**  
+🧑‍💻 Full Stack Developer | 💡 Laravel • ⚛️ Next.js • 🌐 WordPress  
+📍 Sidoarjo, Indonesia  
 
-## Lisensi
+## 📄 Lisensi
 
-Proyek ini dilisensikan di bawah [Lisensi GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+Proyek ini dilisensikan di bawah [MIT License](LICENSE).
